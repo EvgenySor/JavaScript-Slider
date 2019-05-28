@@ -1,2 +1,8 @@
-# JavaScript-Slider
-Слайдер на чистом JavaScript
+# Реализация слайдера на чистом JavaScript
+
+* Студент: [Evgeny_Sorochuk](https://vk.com/id161031828)
+---
+
+**Файл с реализацией функционала — `main.js`**
+
+### Памятка
